@@ -1,0 +1,9 @@
+Outils de base dans Google sheets:
+bit.ly/scraping2018-1
+
+API de Google Maps:
+bit.ly/googeoapi
+(il faut ensuite entrer une adresse après le "=")
+
+Tutoriel BeautifulSoup:
+bit.ly/jhroybs4
